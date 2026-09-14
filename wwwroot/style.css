@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+}
+
+select, button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
